@@ -115,6 +115,13 @@ Built dashboards to analyze: <br>
 - Automate dashboard using Power BI
 - Add predictive insights for customer churn and demand forecasting
 
+## ▶️ How to Run the File
+
+- Download the Excel file from the repository.
+- Open the file using Microsoft Excel (2016 or later recommended).
+- Go to the Dashboard sheet to view the interactive dashboard.
+- Use the slicers (Gender, Age Group, Category, Season, etc.) to filter and explore insights.
+- Refer to the Pivot Tables sheet to understand how the visuals are built.
 ---
 
 ## 👤 Author & Contact
