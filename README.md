@@ -82,3 +82,37 @@ Built dashboards to analyze: <br>
 
 <img width="1220" height="671" alt="Screenshot 2025-12-28 162407" src="https://github.com/user-attachments/assets/aaf6c1e6-5e72-4876-8c58-6fb31b26cea8" />
 
+---
+
+## 💡 Key Insights
+- Total revenue is $233,081, showing strong overall sales.
+- Average purchase value is about $60, which indicates mid-range spending per order.
+- Clothing generates the highest revenue, making it the core business driver.Accessories are the second highest, showing good add-on sales.
+- Adult customers generate the highest revenue, followed by seniors.Young customers contribute the least, showing lower spending power.
+- Male customers contribute around 68% of revenue, higher than females at 32%.
+- Credit Card, PayPal, and Cash generate almost equal and high revenue.Bank transfer contributes the least, showing low customer preference.
+- Free Shipping generates the highest revenue, proving it strongly influences purchases.Express and Store Pickup also perform well.Next Day Air contributes the least, likely due to higher cost.
+- Bi-weekly customers generate the highest revenue, showing strong repeat buying.Weekly and quarterly purchases are lower, indicating fewer high-frequency buyers.
+- Revenue without discounts is higher than with discounts.This suggests customers are willing to buy even without offers, protecting profit margins.
+- Fall has the highest revenue, followed by winter.Summer shows the lowest revenue, indicating seasonal demand variation.
+- Top 5 states Montana,Illinois,California,Idaho, and Nevada contribute similar revenue, with no single location dominating.
+
+---
+
+## 📌 Business Recommendations
+
+- Prioritize **Clothing** and **Accessories** in inventory and promotions.
+- Design marketing campaigns mainly for Adult age group.
+- Continue offering Free Shipping as a key incentive.Apply free shipping above a minimum order value to protect margins.
+- Introduce loyalty programs for bi-weekly buyers.Offer rewards for repeat purchases instead of price cuts.
+- Increase inventory and marketing spend before Fall and Winter.
+- Promote Credit Card and PayPal as default payment methods.
+
+---
+## 🚀 Future Enhancements
+
+- Extend analysis using SQL or Python
+- Automate dashboard using Power BI
+- Add predictive insights for customer churn and demand forecasting
+
+---
