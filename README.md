@@ -116,3 +116,11 @@ Built dashboards to analyze: <br>
 - Add predictive insights for customer churn and demand forecasting
 
 ---
+
+## 👤 Author & Contact
+
+Author: Pujari Sampath Kumar <br>
+🎓 B.Tech                   <br>
+📧 Email: sampathkumarpujari4@gmail.com<br>
+🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
+💻 GitHub: https://github.com/Sampathkumarpujari0806
