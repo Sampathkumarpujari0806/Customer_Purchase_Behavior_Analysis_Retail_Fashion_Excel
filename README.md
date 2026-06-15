@@ -1,4 +1,4 @@
-# 📊 Customer Purchase Behavior Analysis – Retail Fashion
+thkumarp# 📊 Customer Purchase Behavior Analysis – Retail Fashion
 ## 📌 Project Overview
 
 This project analyzes customer purchase behavior for a retail fashion company to support better marketing decisions, inventory planning, and product recommendations. The analysis focuses on understanding revenue drivers, customer segments, and the impact of discounts, shipping types, and purchase frequency.
@@ -130,4 +130,4 @@ Author: Pujari Sampath Kumar <br>
 🎓 B.Tech                   <br>
 📧 Email: sampathkumarpujari4@gmail.com<br>
 🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
-💻 GitHub: https://github.com/Sampathkumarpujari0806
+💻 GitHub: https://github.com/SampathPujari0806
